@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End%20to%20End%20Machine%20Learning%20Project/End-to-End-Machine-Learning-Project/mlruns/0/1626a8c8fadd40d5b64f4880b43427af/artifacts
+end_time: 1756474399603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1626a8c8fadd40d5b64f4880b43427af
+run_name: salty-snipe-883
+run_uuid: 1626a8c8fadd40d5b64f4880b43427af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756474371340
+status: 4
+tags: []
+user_id: Hp
